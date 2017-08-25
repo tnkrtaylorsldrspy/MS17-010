@@ -24,6 +24,6 @@ example:
 
 **Step 7:** `python eternalblue_exploit8.py (target IP) (payloadname).bin (GROOM COUNT)`
 
-**-side note-** Groom count will typically function with a "200" for windows 8/2012r2 but *might* crash the system - use at your own risk
+__**-side note-** Groom count will typically function with a "200" for windows 8/2012r2 but *might* crash the system - use at your own risk__
 
 **Step 8:** shell/meterpreter should be returned if "Guest" account is active or entered credentials worked.
