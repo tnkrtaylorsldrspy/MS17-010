@@ -6,9 +6,9 @@
 
 example:
 
-`USERNAME='Guest'
+`USERNAME='Guest'`
 
-PASSWORD=''`
+`PASSWORD=''`
 
 **Step 2:** cd shellcode and type `nasm -f bin eternalblue_kshellcode_x64(x86).asm`
 
